@@ -1,24 +1,14 @@
-# README
+## 🍕Ieat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### O que é o Ieat?
+Ieat é um serviço de delivery de refeições, acessível através do navegador. Ele permite que o usuário peça os seus pratos sem ter que ligar para os restaurantes.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Dados técnicos
+- 🖥 &nbsp; Utiliza a arquitetura MVC
+- 👍 &nbsp; Técnicas de otimização de código
+- 🧰 &nbsp; Bibliotecas como:
+  - RSpec
+  - Devise
+  - Factory Bot
+  - Faker
+  - Sidekiq
